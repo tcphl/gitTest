@@ -6,4 +6,7 @@ package com.shop.util;
  * Date:2019/4/1 15:06
  */
 public class Test {
+    public static void main(String[] args) {
+
+    }
 }
